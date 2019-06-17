@@ -1,0 +1,16 @@
+Name        : Monitask
+Version     : 1.00
+Release     : 1
+Architecture: x86_64
+Install Date: (not installed)
+Group       : Unspecified
+Size        : 99414611
+License     : Redistributable, no modification permitted
+Signature   : RSA/SHA256, Mon 17 Jun 2019 12:35:27 PM +10, Key ID ab7c6a3f7388da72
+Source RPM  : Monitask-1.00-1.src.rpm
+Build Date  : Mon 17 Jun 2019 12:34:53 PM +10
+Build Host  : localhost
+Relocations : (not relocatable)
+Summary     : Monitask RPM package
+Description :
+Monitask desktop linux time tracker
