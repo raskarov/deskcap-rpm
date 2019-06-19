@@ -1,14 +1,14 @@
-Name        : Monitask
-Version     : 1.01
+Name        : monitask
+Version     : 1.02
 Release     : 1
 Architecture: x86_64
 Install Date: (not installed)
 Group       : Unspecified
-Size        : 99414511
+Size        : 94996132
 License     : Redistributable, no modification permitted
-Signature   : RSA/SHA256, Mon 17 Jun 2019 01:21:19 PM +10, Key ID ab7c6a3f7388da72
-Source RPM  : Monitask-1.01-1.src.rpm
-Build Date  : Mon 17 Jun 2019 01:20:25 PM +10
+Signature   : RSA/SHA256, Wed 19 Jun 2019 06:15:58 PM +10, Key ID 5ee1a77ed6ccac1f
+Source RPM  : monitask-1.02-1.src.rpm
+Build Date  : Wed 19 Jun 2019 06:15:13 PM +10
 Build Host  : localhost
 Relocations : (not relocatable)
 Summary     : Monitask RPM package
